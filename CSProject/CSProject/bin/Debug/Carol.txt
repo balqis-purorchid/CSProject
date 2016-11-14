@@ -1,0 +1,10 @@
+PAYSLIP FOR NOV 2011
+==========================
+Name of Staff : Name of Staff = Carol, Overtime = 0, Basic pay = 2340, total pay = 2340
+Hours Worked : 78
+
+Basic Pay : 2340
+
+==========================
+Total Pay : 2340
+==========================

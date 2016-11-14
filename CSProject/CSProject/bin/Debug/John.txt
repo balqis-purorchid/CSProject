@@ -1,0 +1,10 @@
+PAYSLIP FOR NOV 2011
+==========================
+Name of Staff : Name of Staff = John, Overtime = 620, Basic pay = 6000, total pay = 6620
+Hours Worked : 200
+
+Basic Pay : 6000
+
+==========================
+Total Pay : 6620
+==========================

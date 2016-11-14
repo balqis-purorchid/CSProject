@@ -1,0 +1,10 @@
+PAYSLIP FOR NOV 2011
+==========================
+Name of Staff : Name of Staff = Peter, Allowance = 0, Basic pay = 2800, total pay = 2800
+Hours Worked : 56
+
+Basic Pay : 2800
+
+==========================
+Total Pay : 2800
+==========================

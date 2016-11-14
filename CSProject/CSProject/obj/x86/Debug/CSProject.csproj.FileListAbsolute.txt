@@ -1,0 +1,5 @@
+C:\Users\Ran\documents\visual studio 2010\Projects\CSProject\CSProject\bin\Debug\CSProject.exe
+C:\Users\Ran\documents\visual studio 2010\Projects\CSProject\CSProject\bin\Debug\CSProject.pdb
+C:\Users\Ran\documents\visual studio 2010\Projects\CSProject\CSProject\obj\x86\Debug\CSProject.exe
+C:\Users\Ran\documents\visual studio 2010\Projects\CSProject\CSProject\obj\x86\Debug\CSProject.pdb
+C:\Users\Ran\Documents\Visual Studio 2010\Projects\CSProject\CSProject\obj\x86\Debug\CSProject.csprojResolveAssemblyReference.cache

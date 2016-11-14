@@ -1,0 +1,10 @@
+PAYSLIP FOR NOV 2011
+==========================
+Name of Staff : Name of Staff = Yvonne, Allowance = 0, Basic pay = 4500, total pay = 4500
+Hours Worked : 90
+
+Basic Pay : 4500
+
+==========================
+Total Pay : 4500
+==========================
